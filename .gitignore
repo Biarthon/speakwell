@@ -1,0 +1,23 @@
+# PHP dependencies
+/vendor/
+
+# Uploaded user files
+/uploaded_files/
+
+# Composer PHAR
+/composer.phar
+
+# OS/IDE files
+.DS_Store
+.idea/
+.vscode/
+
+# Logs and env
+*.log
+.env
+
+# node
+node_modules/
+
+# Sensitive files
+/.env.local
