@@ -1,8 +1,8 @@
 <?php
 
-$db_name = 'mysql:host=localhost;dbname=course_db';
-$user_name = 'root';
-$user_password = '';
+$db_name = 'mysql:host=db.pxxl.pro;port=19714;dbname=db_qccb4ece';
+$user_name = 'user_debb6595';
+$user_password = '3e5a2c9efb3c55500570857da6f113a0'; // use the full password from your panel
 
 try {
    $conn = new PDO($db_name, $user_name, $user_password);
