@@ -78,10 +78,10 @@ $total_bookmarked = $select_bookmark->rowCount();
       <div class="box">
          <h3 class="title">top categories</h3>
          <div class="flex">
-            <a href="search_course.php?"><i class="fas fa-code"></i><span>development</span></a>
-            <a href="#"><i class="fas fa-chart-simple"></i><span>business</span></a>
-            <a href="#"><i class="fas fa-pen"></i><span>design</span></a>
-            <a href="#"><i class="fas fa-chart-line"></i><span>marketing</span></a>
+            <a href="search_course.php?"><i class="fas fa-code"></i><span>Personal Growth</span></a>
+            <a href="#"><i class="fas fa-chart-simple"></i><span>Public Speaking</span></a>
+            <a href="#"><i class="fas fa-pen"></i><span>English Language</span></a>
+            <a href="#"><i class="fas fa-chart-line"></i><span>Debating</span></a>
             <a href="#"><i class="fas fa-music"></i><span>music</span></a>
             <a href="#"><i class="fas fa-camera"></i><span>photography</span></a>
             <a href="#"><i class="fas fa-cog"></i><span>software</span></a>
@@ -92,19 +92,20 @@ $total_bookmarked = $select_bookmark->rowCount();
       <div class="box">
          <h3 class="title">popular topics</h3>
          <div class="flex">
-            <a href="#"><i class="fab fa-html5"></i><span>HTML</span></a>
-            <a href="#"><i class="fab fa-css3"></i><span>CSS</span></a>
-            <a href="#"><i class="fab fa-js"></i><span>javascript</span></a>
-            <a href="#"><i class="fab fa-react"></i><span>react</span></a>
-            <a href="#"><i class="fab fa-php"></i><span>PHP</span></a>
-            <a href="#"><i class="fab fa-bootstrap"></i><span>bootstrap</span></a>
+            <a href="#"><i class="fab fa-html5"></i><span>English Intermediate</span></a>
+            <a href="#"><i class="fab fa-css3"></i><span></span></a>
+            <a href="#"><i class="fab fa-js"></i><span>Advanced English langauge</span></a>
+            <a href="#"><i class="fab fa-react"></i><span>Public Speaking </span></a>
+            <a href="#"><i class="fab fa-php"></i><span>Basic English</span></a>
+            <a href="#"><i class="fab fa-bootstrap"></i><span>BP Debating</span></a>
          </div>
       </div>
 
       <div class="box tutor">
-         <h3 class="title">become a tutor</h3>
-         <p>Share your knowledge and inspire learners worldwide! Join our community of educators and teach what you love with the support of our platform. Contact us below and we will grand you the permision and you dont have to worry about any cost its free. 
-         </p>
+         <h3 class="title">Do you want to become a tutor</h3>
+         <p> Share your knowledge and inspire learners worldwide by  Joining  our community of educators and teach what you love  
+        
+      </p>
          <a href="contact.php" class="inline-btn">get started</a>
       </div>
 

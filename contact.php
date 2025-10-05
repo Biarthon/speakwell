@@ -79,21 +79,21 @@ if(isset($_POST['submit'])){
       <div class="box">
          <i class="fas fa-phone"></i>
          <h3>phone number</h3>
-         <a href="tel:+256759455112">+256759455112</a>
-         <a href="tel:+256760744553">+256760744553</a>
+         <a href="tel:+256759455112">+211 981 880 170</a>
+         <a href="tel:+256760744553">+211 927 370 500</a>
       </div>
 
       <div class="box">
          <i class="fas fa-envelope"></i>
          <h3>email address</h3>
-         <a href="mailto:biarthon@outlook.com">info@skiidemy.com</a>
-         <a href="mailto:johnsonachuk5@gmail.com">admin@skiidemy.com</a>
+         <a href="mailto:biarthon@outlook.com">info@speakwell.com</a>
+         <a href="mailto:johnsonachuk5@gmail.com">admin@speakwell.com</a>
       </div>
 
       <div class="box">
          <i class="fas fa-map-marker-alt"></i>
          <h3>office address</h3>
-         <a href="#">flat no. 1, a-1 building, Arua, KCB bank lane ,400104</a>
+         <a href="#">flat no. 1, a-1 building, Juba, KCB bank lane ,400104</a>
       </div>
 
 
